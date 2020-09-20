@@ -1,0 +1,1 @@
+npm run build&copy /y C:\Users\40718\Desktop\ts\signalr\dist\webworker\signalr.js C:\Users\40718\Desktop\kbone\ws\lib\signalr.js
